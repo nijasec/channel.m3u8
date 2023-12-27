@@ -1,7 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:49944
-#EXT-X-DISCONTINUITY-SEQUENCE:0
-#EXTINF:5.991,
+
+
+#EXTINF:1,AP
 https://raw.githubusercontent.com/nijasec/channel.m3u8/main/audio.aac
