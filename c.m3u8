@@ -1,5 +1,4 @@
 #EXTM3U
-
-
-#EXTINF:1,AP
+#EXT-X-TARGETDURATION:10
+#EXTINF:9.009,
 https://raw.githubusercontent.com/nijasec/channel.m3u8/main/audio.aac
